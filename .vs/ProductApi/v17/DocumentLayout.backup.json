@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\POC\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|d:\\code\\poc\\productapi\\productapi\\provider\\homeapplianceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\provider\\homeapplianceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|d:\\code\\poc\\productapi\\productapi\\controllers\\homeappliancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\homeappliancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|d:\\code\\poc\\productapi\\productapi\\homeappliancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\homeappliancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896ECA8E-7A5E-41B8-B66A-30B0F9E46FB2}|.github{896ECA8E-7A5E-41B8-B66A-30B0F9E46FB2}|D:\\Code\\POC\\ProductApi\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{896ECA8E-7A5E-41B8-B66A-30B0F9E46FB2}|.github{896ECA8E-7A5E-41B8-B66A-30B0F9E46FB2}|solutionrelative:copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|d:\\code\\poc\\productapi\\productapi\\utilities\\reflectionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\utilities\\reflectionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|d:\\code\\poc\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A2E83B-0A81-4DC2-9A9D-6388E1FD51C2}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeAppliancesController.cs",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\ProductApi\\Controllers\\HomeAppliancesController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\HomeAppliancesController.cs",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\ProductApi\\Controllers\\HomeAppliancesController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\HomeAppliancesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:30:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeApplianceProvider.cs",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\ProductApi\\Provider\\HomeApplianceProvider.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Provider\\HomeApplianceProvider.cs",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\ProductApi\\Provider\\HomeApplianceProvider.cs",
+              "RelativeToolTip": "ProductApi\\Provider\\HomeApplianceProvider.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAjwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:04:50.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeApplianceContext.cs",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\ProductApi\\HomeApplianceContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\HomeApplianceContext.cs",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\ProductApi\\HomeApplianceContext.cs",
+              "RelativeToolTip": "ProductApi\\HomeApplianceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:04:45.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReflectionUtilities.cs",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\ProductApi\\Utilities\\ReflectionUtilities.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Utilities\\ReflectionUtilities.cs",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\ProductApi\\Utilities\\ReflectionUtilities.cs",
+              "RelativeToolTip": "ProductApi\\Utilities\\ReflectionUtilities.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:56:09.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:56:02.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "D:\\Code\\POC\\ProductApi\\copilot-instructions.md",
+              "RelativeDocumentMoniker": "copilot-instructions.md",
+              "ToolTip": "D:\\Code\\POC\\ProductApi\\copilot-instructions.md",
+              "RelativeToolTip": "copilot-instructions.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-29T16:55:29.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

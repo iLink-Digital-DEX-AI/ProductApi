@@ -1,0 +1,4 @@
+- Use camelCase for variable names.
+- Always include XML documentation comments for public methods.
+- Prefer `var` for local variable declarations when the type is evident.
+- Use string interpolation over string concatenation.
